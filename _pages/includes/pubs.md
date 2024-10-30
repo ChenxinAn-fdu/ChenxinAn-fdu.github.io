@@ -4,7 +4,7 @@
 
 **Chenxin An**, Jun Zhang, Ming Zhong, Lei Li, Shansan Gong, Yao Luo, Jingjing Xu, Lingpeng Kong
 
-[STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| Interesting findings about the effective length of LLMs and new positional encoding methods for LLMs at inference stage.
+[STRING ![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social)](https://github.com/HKUNLP/STRING) \| Interesting findings about the effective length growth of LLMs and new positional encodings for LLMs at inference stage.
 
 ---
 
