@@ -34,6 +34,18 @@ Ming Zhong, **Chenxin An**, Weizhu Chen, Jiawei Han, Pengcheng He
 Xiaoran Liu, Hang Yan, Shuo Zhang, **Chenxin An**, Xipeng Qiu, Dahua Lin
 
 ---
+[Temporal Reasoning Transfer from Text to Video](https://arxiv.org/pdf/2410.06166.pdf)
+
+Lei Li, Yuanxin Liu, Linli Yao, Peiyuan Zhang, **Chenxin An**, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu
+
+---
+
+[Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/pdf/2410.17891.pdf)
+
+Shansan Gong, Shivam Agarwal, Yizhe Zhang, Jiacheng Ye, Lin Zheng, Mukai Li, **Chenxin An**, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong
+
+---
+
 
 
 
