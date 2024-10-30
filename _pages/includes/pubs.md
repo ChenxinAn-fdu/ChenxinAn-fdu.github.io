@@ -12,7 +12,7 @@
 
 **Chenxin An**, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu *(Outstanding paper, ACL2024)*
 
-[L-Eval ![](https://img.shields.io/github/stars/OpenLMLab/LEval?style=social)](https://github.com/OpenLMLab/LEval) \| A comprehensive evaluate suite for long-context language models with 20 sub-tasks and optimized evaluation metric.
+[L-Eval ![](https://img.shields.io/github/stars/OpenLMLab/LEval?style=social)](https://github.com/OpenLMLab/LEval) \| A comprehensive evaluation suite for long-context language models with 20 sub-tasks and optimized evaluation metric.
 
 ---
 [Training-Free Long-Context Scaling of Large Language Models](https://arxiv.org/pdf/2402.17463) (ICML 2024)
