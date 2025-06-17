@@ -26,11 +26,11 @@ I am a second-year Ph.D. candidate at HKU, supervised by [Lingpeng Kong](https:/
 
 <aside style="background-color: #f5f5f5; padding: 1em; border-radius: 8px;">
   <p>
-    We are thrilled to unveil our latest breakthroughs, <code>POLARIS-7B-Preview</code> and <code>POLARIS-4B-Preview</code>, which mark a new frontier in open‐recipe reasoning models developed using academic‐level resources. 
+    We are thrilled to unveil our latest breakthroughs, <em>POLARIS-7B-Preview</em> and <em>POLARIS-4B-Preview</em>, which mark a new frontier in open‐recipe reasoning models developed using academic‐level resources. 
     <br>
-    <code>POLARIS-4B-Preview</code> is fine-tuned from <code>Qwen3-4B</code> and <code>POLARIS-7B-Preview</code> is fine-tuned from <code>Deepseek-R1-Distill-Qwen-7B</code>.
+    <em>POLARIS-4B-Preview</em> is fine-tuned from <em>Qwen3-4B</em> and <em>POLARIS-7B-Preview</em> is fine-tuned from <em>Deepseek-R1-Distill-Qwen-7B</em>.
     <br>
-    Our 4B model achieves an impressive <strong>81.2% Pass@1 accuracy on AIME24</strong> and <strong>79.4% Pass@1 accuracy on AIME25</strong>, outperforming state-of-the-art commercial models like <code>Claude-4-Opus</code>, <code>Grok-3-Beta</code>, and <code>o3-mini-high(2025/01/31)</code> via scaling reinforcement learning on open-source data. On AIME25, POLARIS astonishingly achieves comparable performance to <code>Qwen3-235B-A22B</code> while using less than <strong>2%</strong> of its parameters and can be deployed on consumer-grade GPUs.
+    Our 4B model achieves an impressive <strong>81.2% Pass@1 accuracy on AIME24</strong> and <strong>79.4% Pass@1 accuracy on AIME25</strong>, outperforming state-of-the-art commercial models like <em>Claude-4-Opus</em>, <em>Grok-3-Beta</em>, and <em>o3-mini-high(2025/01/31)</em> via scaling reinforcement learning on open-source data. On AIME25, POLARIS astonishingly achieves comparable performance to <em>Qwen3-235B-A22B</em> while using less than <strong>2%</strong> of its parameters and can be deployed on consumer-grade GPUs.
   </p>
   <p>
     To foster progress in scaling RL on advanced reasoning models, we are open-sourcing our dataset, code, and training details for the research community.
