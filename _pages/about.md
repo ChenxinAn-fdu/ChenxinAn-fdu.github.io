@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a second-year Ph.D. candidate at HKU, supervised by [Lingpeng Kong](https://ikekonglp.github.io/). I obtained my bachelor's and master's degrees from the Department of Computer Science at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). My current research focuses on building effective long-context LLMs, including:
-(1) Fully utilizing the training context.
-(2) Efficient inference on over 1 million tokens.
-(3) Developing better evaluation tasks for current long-context LLMs.
+I am a second-year Ph.D. candidate at HKU, supervised by [Lingpeng Kong](https://ikekonglp.github.io/). I obtained my bachelor's and master's degrees from the Department of Computer Science at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). My current research focuses on building effective long-context LLMs and scaling reinforcement learning with LLMs.
 
 
 {% include_relative includes/pubs.md %}
