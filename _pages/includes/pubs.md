@@ -39,9 +39,6 @@
 
 [CoNT ![](https://img.shields.io/github/stars/Shark-NLP/CoNT?style=social)](https://github.com/Shark-NLP/CoNT) \|A contrastive learning training method for improving autoregressive text generation.
 
-
-https://github.com/Shark-NLP/CoNT
-
 ---
 
 [Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective](https://arxiv.org/pdf/2310.11451.pdf) (ICLR 2024)
