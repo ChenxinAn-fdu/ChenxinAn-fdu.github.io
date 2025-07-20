@@ -10,7 +10,7 @@
 
 [L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/pdf/2307.11088.pdf) (ACL 2024)
 
-**Chenxin An**, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu *((<span style="color:red;">Outstanding paper</span>, ACL 2024))*
+**Chenxin An**, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu *(<span style="color:red;">Outstanding paper</span>, ACL 2024)*
 
 [L-Eval ![](https://img.shields.io/github/stars/OpenLMLab/LEval?style=social)](https://github.com/OpenLMLab/LEval) \| A comprehensive evaluation suite for long-context language models with 20 sub-tasks and optimized evaluation metric.
 
